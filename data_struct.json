@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "series_name": "",
+      "product_type":  "",
+      "product_name": "",
+      "documents": [
+        {
+          "doc_name": "",
+          "doc_version": "",
+          "doc_release_year": "",
+          "doc_language": [],
+          "doc_type": "",
+          "doc_size": "",
+          "doc_extension": "",
+          "link": ""
+        }
+      ]
+    }
+  ]
+}
+

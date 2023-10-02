@@ -1,0 +1,532 @@
+{
+  "products": [
+    {
+      "series_name": "ME96 SERIES",
+      "product_type": "MULTI MEASURING INSTRUMENT",
+      "product_name": "ME96SSEB-MB",
+      "documents": [
+        {
+          "doc_name": "ME96SSHB-MB / ME96SSRB-MB / ME96SSEB-MB (CURRENT SENSOR)",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "1.6 MiB",
+          "doc_year": "2023",
+          "doc_version": "D",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt5e09ae8219f29d9b/64be4c9b93a9364667d6fc18/ME96SSHB-MB_ME96SSRB-MB_ME96SSEB-MB_Electronic_Multi-Measuring_Instrument_User_s_Manual_ib63e69d.pdf",
+          "note": "User's Manual (Digest version)"
+        },
+        {
+          "doc_name": "ME96SSEB-MB",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "3.5 MiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/bltc818771bd2f10d5d/6172c1d5fc41b20dc5181cb4/f1e3667d-6560-11eb-8592-b8ca3a62a094_ME96SSEB-MB_ib63e77a.pdf",
+          "note": "Electronic Multi-Measuring Instrument User's Manual: Detailed Edition"
+        },
+        {
+          "doc_name": "ME96SSEB-MB",
+          "doc_type": "CAD Files",
+          "doc_size": "339.6 KiB",
+          "doc_extension": "DXF",
+          "doc_link": "https://eu-images.contentstack.com/v3/assets/blt5412ff9af9aef77f/bltc032ffae949ff34d/6172c1e47742620f5c8d2266/5ed5f522-656b-11eb-8592-b8ca3a62a094_ME96SSEB.dxf",
+          "note": "CAD file in \".dxf\" format"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_release_year": "2020",
+          "doc_language": "English",
+          "doc_type": "Certificates",
+          "doc_size": "1.2 MiB",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blta63a8cbadbd101f0/6172c17899d38b0f5a496b16/88f94926-573a-11eb-901c-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_en.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        },
+        {
+          "doc_name": "Electronic Multi-Measuring Instrument ME96SS Ver.B",
+          "doc_language": "English",
+          "doc_type": "Catalogues",
+          "doc_size": "8.9 MiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt401a4f7f0238478f/6262aaf3b4f5ca2cdc8cbb73/Electronic_Multi-Measuring_Instrument_ME96SS_Ver.B_y0758c2009.pdf",
+          "note": "Catalogue"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_language": "German",
+          "doc_type": "Certificates",
+          "doc_size": "248.2 KiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt9636530241e5dc16/6172c1835f96c207723a6b74/fbedc3a6-5ef6-11eb-8592-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_de.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        }
+      ]
+    },
+    {
+      "series_name": "ME96 SERIES",
+      "product_type": "MULTI MEASURING INSTRUMENT",
+      "product_name": "ME96SSEB-MB",
+      "documents": [
+        {
+          "doc_name": "ME96SSHB-MB / ME96SSRB-MB / ME96SSEB-MB (CURRENT SENSOR)",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "1.6 MiB",
+          "doc_year": "2023",
+          "doc_version": "D",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt5e09ae8219f29d9b/64be4c9b93a9364667d6fc18/ME96SSHB-MB_ME96SSRB-MB_ME96SSEB-MB_Electronic_Multi-Measuring_Instrument_User_s_Manual_ib63e69d.pdf",
+          "note": "User's Manual (Digest version)"
+        },
+        {
+          "doc_name": "ME96SSEB-MB",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "3.5 MiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/bltc818771bd2f10d5d/6172c1d5fc41b20dc5181cb4/f1e3667d-6560-11eb-8592-b8ca3a62a094_ME96SSEB-MB_ib63e77a.pdf",
+          "note": "Electronic Multi-Measuring Instrument User's Manual: Detailed Edition"
+        },
+        {
+          "doc_name": "ME96SSEB-MB",
+          "doc_type": "CAD Files",
+          "doc_size": "339.6 KiB",
+          "doc_extension": "DXF",
+          "doc_link": "https://eu-images.contentstack.com/v3/assets/blt5412ff9af9aef77f/bltc032ffae949ff34d/6172c1e47742620f5c8d2266/5ed5f522-656b-11eb-8592-b8ca3a62a094_ME96SSEB.dxf",
+          "note": "CAD file in \".dxf\" format"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_release_year": "2020",
+          "doc_language": "English",
+          "doc_type": "Certificates",
+          "doc_size": "1.2 MiB",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blta63a8cbadbd101f0/6172c17899d38b0f5a496b16/88f94926-573a-11eb-901c-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_en.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        },
+        {
+          "doc_name": "Electronic Multi-Measuring Instrument ME96SS Ver.B",
+          "doc_language": "English",
+          "doc_type": "Catalogues",
+          "doc_size": "8.9 MiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt401a4f7f0238478f/6262aaf3b4f5ca2cdc8cbb73/Electronic_Multi-Measuring_Instrument_ME96SS_Ver.B_y0758c2009.pdf",
+          "note": "Catalogue"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_language": "German",
+          "doc_type": "Certificates",
+          "doc_size": "248.2 KiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt9636530241e5dc16/6172c1835f96c207723a6b74/fbedc3a6-5ef6-11eb-8592-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_de.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        }
+      ]
+    },
+    {
+      "series_name": "ME96 SERIES",
+      "product_type": "MULTI MEASURING INSTRUMENT",
+      "product_name": "ME96SSRB-MB",
+      "documents": [
+        {
+          "doc_name": "ME96SSHB-MB / ME96SSRB-MB / ME96SSEB-MB (CURRENT SENSOR)",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "1.6 MiB",
+          "doc_year": "2023",
+          "doc_version": "D",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt5e09ae8219f29d9b/64be4c9b93a9364667d6fc18/ME96SSHB-MB_ME96SSRB-MB_ME96SSEB-MB_Electronic_Multi-Measuring_Instrument_User_s_Manual_ib63e69d.pdf",
+          "note": "User's Manual (Digest version)"
+        },
+        {
+          "doc_name": "ME96SSRB-MB",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "6.0 MiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt4df0aa975dfb66c0/6172c1e287128d10a9560dae/3be10ac1-6561-11eb-8592-b8ca3a62a094_ME96SSRB-MB_ib63e74a.pdf",
+          "note": "Electronic Multi-Measuring Instrument User's Manual: Detailed Edition"
+        },
+        {
+          "doc_name": "ME96SSRB-MB",
+          "doc_type": "CAD Files",
+          "doc_size": "751.9 KiB",
+          "doc_extension": "DXF",
+          "doc_link": "https://eu-images.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt43e3f099d4830b47/6172c1ec5f96c207723a6b7c/b7601f97-656b-11eb-8592-b8ca3a62a094_ME96SSRB_SSHB.dxf",
+          "note": "CAD file in \".dxf\" format"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_release_year": "2020",
+          "doc_language": "English",
+          "doc_type": "Certificates",
+          "doc_size": "1.2 MiB",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blta63a8cbadbd101f0/6172c17899d38b0f5a496b16/88f94926-573a-11eb-901c-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_en.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_language": "German",
+          "doc_type": "Certificates",
+          "doc_size": "248.2 KiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt9636530241e5dc16/6172c1835f96c207723a6b74/fbedc3a6-5ef6-11eb-8592-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_de.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        }
+      ]
+    },
+    {
+      "series_name": "ME96 SERIES",
+      "product_type": "MULTI MEASURING INSTRUMENT",
+      "product_name": "ME96SSRB-MB",
+      "documents": [
+        {
+          "doc_name": "ME96SSHB-MB / ME96SSRB-MB / ME96SSEB-MB (CURRENT SENSOR)",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "1.6 MiB",
+          "doc_year": "2023",
+          "doc_version": "D",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt5e09ae8219f29d9b/64be4c9b93a9364667d6fc18/ME96SSHB-MB_ME96SSRB-MB_ME96SSEB-MB_Electronic_Multi-Measuring_Instrument_User_s_Manual_ib63e69d.pdf",
+          "note": "User's Manual (Digest version)"
+        },
+        {
+          "doc_name": "ME96SSRB-MB",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "6.0 MiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt4df0aa975dfb66c0/6172c1e287128d10a9560dae/3be10ac1-6561-11eb-8592-b8ca3a62a094_ME96SSRB-MB_ib63e74a.pdf",
+          "note": "Electronic Multi-Measuring Instrument User's Manual: Detailed Edition"
+        },
+        {
+          "doc_name": "ME96SSRB-MB",
+          "doc_type": "CAD Files",
+          "doc_size": "751.9 KiB",
+          "doc_extension": "DXF",
+          "doc_link": "https://eu-images.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt43e3f099d4830b47/6172c1ec5f96c207723a6b7c/b7601f97-656b-11eb-8592-b8ca3a62a094_ME96SSRB_SSHB.dxf",
+          "note": "CAD file in \".dxf\" format"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_release_year": "2020",
+          "doc_language": "English",
+          "doc_type": "Certificates",
+          "doc_size": "1.2 MiB",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blta63a8cbadbd101f0/6172c17899d38b0f5a496b16/88f94926-573a-11eb-901c-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_en.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_language": "German",
+          "doc_type": "Certificates",
+          "doc_size": "248.2 KiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt9636530241e5dc16/6172c1835f96c207723a6b74/fbedc3a6-5ef6-11eb-8592-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_de.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        }
+      ]
+    },
+    {
+      "series_name": "ME96 SERIES",
+      "product_type": "MULTI MEASURING INSTRUMENT",
+      "product_name": "ME96SSHB-MB",
+      "documents": [
+        {
+          "doc_name": "ME96SSHB-MB / ME96SSRB-MB / ME96SSEB-MB (CURRENT SENSOR)",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "1.6 MiB",
+          "doc_year": "2023",
+          "doc_version": "D",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt5e09ae8219f29d9b/64be4c9b93a9364667d6fc18/ME96SSHB-MB_ME96SSRB-MB_ME96SSEB-MB_Electronic_Multi-Measuring_Instrument_User_s_Manual_ib63e69d.pdf",
+          "note": "User's Manual (Digest version)"
+        },
+        {
+          "doc_name": "ME96SSHB-MB",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "6.2 MiB",
+          "doc_year": "2020",
+          "doc_version": "B",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt8eea8d4c3ee33ced/6172c1cd57efba120b4148bc/8ec679e5-6560-11eb-8592-b8ca3a62a094_ME96SSHB-MB_ib63e71b.pdf",
+          "note": "Electronic Multi-Measuring Instrument User's Manual: Detailed Edition"
+        },
+        {
+          "doc_name": "ME96SSHB-MB",
+          "doc_type": "CAD Files",
+          "doc_size": "751.9 KiB",
+          "doc_extension": "DXF",
+          "doc_link": "https://eu-images.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt1395f313189b2a7f/6172c1e939e7f70c737805a7/9090810e-656b-11eb-8592-b8ca3a62a094_ME96SSRB_SSHB.dxf",
+          "note": "CAD file in \".dxf\" format"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_release_year": "2020",
+          "doc_language": "English",
+          "doc_type": "Certificates",
+          "doc_size": "1.2 MiB",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blta63a8cbadbd101f0/6172c17899d38b0f5a496b16/88f94926-573a-11eb-901c-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_en.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        },
+        {
+          "doc_name": "Electronic Multi-Measuring Instrument ME96SS Ver.B",
+          "doc_language": "English",
+          "doc_type": "Catalogues",
+          "doc_size": "8.9 MiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt401a4f7f0238478f/6262aaf3b4f5ca2cdc8cbb73/Electronic_Multi-Measuring_Instrument_ME96SS_Ver.B_y0758c2009.pdf",
+          "note": "Catalogue"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_language": "German",
+          "doc_type": "Certificates",
+          "doc_size": "248.2 KiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt9636530241e5dc16/6172c1835f96c207723a6b74/fbedc3a6-5ef6-11eb-8592-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_de.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        }
+      ]
+    },
+    {
+      "series_name": "ME96 SERIES",
+      "product_type": "MULTI MEASURING INSTRUMENT",
+      "product_name": "ME96SSHB-MB",
+      "documents": [
+        {
+          "doc_name": "ME96SSHB-MB / ME96SSRB-MB / ME96SSEB-MB (CURRENT SENSOR)",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "1.6 MiB",
+          "doc_year": "2023",
+          "doc_version": "D",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt5e09ae8219f29d9b/64be4c9b93a9364667d6fc18/ME96SSHB-MB_ME96SSRB-MB_ME96SSEB-MB_Electronic_Multi-Measuring_Instrument_User_s_Manual_ib63e69d.pdf",
+          "note": "User's Manual (Digest version)"
+        },
+        {
+          "doc_name": "ME96SSHB-MB",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "6.2 MiB",
+          "doc_year": "2020",
+          "doc_version": "B",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt8eea8d4c3ee33ced/6172c1cd57efba120b4148bc/8ec679e5-6560-11eb-8592-b8ca3a62a094_ME96SSHB-MB_ib63e71b.pdf",
+          "note": "Electronic Multi-Measuring Instrument User's Manual: Detailed Edition"
+        },
+        {
+          "doc_name": "ME96SSHB-MB",
+          "doc_type": "CAD Files",
+          "doc_size": "751.9 KiB",
+          "doc_extension": "DXF",
+          "doc_link": "https://eu-images.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt1395f313189b2a7f/6172c1e939e7f70c737805a7/9090810e-656b-11eb-8592-b8ca3a62a094_ME96SSRB_SSHB.dxf",
+          "note": "CAD file in \".dxf\" format"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_release_year": "2020",
+          "doc_language": "English",
+          "doc_type": "Certificates",
+          "doc_size": "1.2 MiB",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blta63a8cbadbd101f0/6172c17899d38b0f5a496b16/88f94926-573a-11eb-901c-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_en.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        },
+        {
+          "doc_name": "Electronic Multi-Measuring Instrument ME96SS Ver.B",
+          "doc_language": "English",
+          "doc_type": "Catalogues",
+          "doc_size": "8.9 MiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt401a4f7f0238478f/6262aaf3b4f5ca2cdc8cbb73/Electronic_Multi-Measuring_Instrument_ME96SS_Ver.B_y0758c2009.pdf",
+          "note": "Catalogue"
+        },
+        {
+          "doc_name": "EC Declaration ME96 Super-S Ver.B series",
+          "doc_language": "German",
+          "doc_type": "Certificates",
+          "doc_size": "248.2 KiB",
+          "doc_year": "2020",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt9636530241e5dc16/6172c1835f96c207723a6b74/fbedc3a6-5ef6-11eb-8592-b8ca3a62a094_EC_Declaration_ME96_Super-S_Ver-B-series_de.pdf",
+          "note": "EC Declaration of Conformity EMC LVD RoHS; CE certificates"
+        }
+      ]
+    },
+    {
+      "series_name": "EMU4 SERIES",
+      "product_type": "ENERGY MEASURING UNIT",
+      "product_name": "EMU4-FD1-MB",
+      "documents": [
+        {
+          "doc_name": "Energy Measuring Unit",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "3.4 MiB",
+          "doc_year": "01",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/bltc18ca002b9152e06/61f674cc6929632ff4e5b65e/446a1557-faa4-11eb-ac0f-b8ca3a62a094_len180123_CCLink_IEFB.pdf",
+          "note": "Programming Manual (CC-Link IE Field Network Basic, SLMP)"
+        },
+        {
+          "doc_name": "EMU4-FD1-MB",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "4.5 MiB",
+          "doc_year": "2021",
+          "doc_version": "C",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/bltaeba20c2e1b60cd3/61f674c5b38a8e43e8c5fbca/17efee09-faa3-11eb-ac0f-b8ca3a62a094_ib63d27c_EMU4_User_manual.pdf",
+          "note": "User’s Manual (Details)"
+        },
+        {
+          "doc_name": "EMU4-FD1-MB",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "778.6 KiB",
+          "doc_year": "2017",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt9ffb51e2e44cf6c0/61f674bd5f14fb3767485f93/b8188170-faa2-11eb-ac0f-b8ca3a62a094_LSPY-9038_Modbus_specification.pdf",
+          "note": "MODBUS - Interface Specifications"
+        },
+        {
+          "doc_name": "EMU4-FD1-MB",
+          "doc_type": "CAD Files",
+          "doc_size": "3.2 MiB",
+          "doc_extension": "ZIP",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blte215cea2e36f8b01/646f163f45880457cb69dcd9/EMU4-FD1-MB_2D_CAD.zip",
+          "note": "CAD File in format: DXF"
+        },
+        {
+          "doc_name": "EC Declaration EMU4-FD1-MB DoC",
+          "doc_release_year": "2017",
+          "doc_language": "English",
+          "doc_type": "Certificates",
+          "doc_size": "638.2 KiB",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt882ab8928eadc94a/617250745f96c207723a6337/EC_Declaration_EMU4-FD1-MB_DoC_en.pdf",
+          "note": "EC Declaration of Conformity EMC RoHS; CE certificates"
+        },
+        {
+          "doc_name": "EC Declaration EMU4-FD1-MB DoC",
+          "doc_language": "German",
+          "doc_type": "Certificates",
+          "doc_size": "301.1 KiB",
+          "doc_year": "2017",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt015a52350f7e8093/617257a27742620f5c8d1a8b/EC_Declaration_EMU4-FD1-MB_DoC_de.pdf",
+          "note": "EC Declaration of Conformity EMC RoHS; CE certificates"
+        }
+      ]
+    },
+    {
+      "series_name": "EMU4 SERIES",
+      "product_type": "ENERGY MEASURING UNIT",
+      "product_name": "EMU4-FD1-MB",
+      "documents": [
+        {
+          "doc_name": "Energy Measuring Unit",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "3.4 MiB",
+          "doc_year": "01",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/bltc18ca002b9152e06/61f674cc6929632ff4e5b65e/446a1557-faa4-11eb-ac0f-b8ca3a62a094_len180123_CCLink_IEFB.pdf",
+          "note": "Programming Manual (CC-Link IE Field Network Basic, SLMP)"
+        },
+        {
+          "doc_name": "EMU4-FD1-MB",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "4.5 MiB",
+          "doc_year": "2021",
+          "doc_version": "C",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/bltaeba20c2e1b60cd3/61f674c5b38a8e43e8c5fbca/17efee09-faa3-11eb-ac0f-b8ca3a62a094_ib63d27c_EMU4_User_manual.pdf",
+          "note": "User’s Manual (Details)"
+        },
+        {
+          "doc_name": "EMU4-FD1-MB",
+          "doc_language": "English",
+          "doc_type": "Manual",
+          "doc_size": "778.6 KiB",
+          "doc_year": "2017",
+          "doc_version": "A",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt9ffb51e2e44cf6c0/61f674bd5f14fb3767485f93/b8188170-faa2-11eb-ac0f-b8ca3a62a094_LSPY-9038_Modbus_specification.pdf",
+          "note": "MODBUS - Interface Specifications"
+        },
+        {
+          "doc_name": "EMU4-FD1-MB",
+          "doc_type": "CAD Files",
+          "doc_size": "3.2 MiB",
+          "doc_extension": "ZIP",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blte215cea2e36f8b01/646f163f45880457cb69dcd9/EMU4-FD1-MB_2D_CAD.zip",
+          "note": "CAD File in format: DXF"
+        },
+        {
+          "doc_name": "EC Declaration EMU4-FD1-MB DoC",
+          "doc_release_year": "2017",
+          "doc_language": "English",
+          "doc_type": "Certificates",
+          "doc_size": "638.2 KiB",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt882ab8928eadc94a/617250745f96c207723a6337/EC_Declaration_EMU4-FD1-MB_DoC_en.pdf",
+          "note": "EC Declaration of Conformity EMC RoHS; CE certificates"
+        },
+        {
+          "doc_name": "EC Declaration EMU4-FD1-MB DoC",
+          "doc_language": "German",
+          "doc_type": "Certificates",
+          "doc_size": "301.1 KiB",
+          "doc_year": "2017",
+          "doc_extension": "PDF",
+          "doc_link": "https://eu-assets.contentstack.com/v3/assets/blt5412ff9af9aef77f/blt015a52350f7e8093/617257a27742620f5c8d1a8b/EC_Declaration_EMU4-FD1-MB_DoC_de.pdf",
+          "note": "EC Declaration of Conformity EMC RoHS; CE certificates"
+        }
+      ]
+    }
+  ]
+}

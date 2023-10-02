@@ -1,0 +1,12 @@
+{
+  "Date": "2023-06-19 14:47:02.377190",
+  "Current_Url_index": 62,
+  "Error_Log": [
+    {
+      "Error": "Message: move target out of bounds\n  (Session info: chrome=116.0.5845.141)\nStacktrace:\n\tGetHandleVerifier [0x00007FF7FD4A52A2+57122]\n\t(No symbol) [0x00007FF7FD41EA92]\n\t(No symbol) [0x00007FF7FD2EE25D]\n\t(No symbol) [0x00007FF7FD366BFC]\n\t(No symbol) [0x00007FF7FD346FDA]\n\t(No symbol) [0x00007FF7FD35EB82]\n\t(No symbol) [0x00007FF7FD346DB3]\n\t(No symbol) [0x00007FF7FD31D2B1]\n\t(No symbol) [0x00007FF7FD31E494]\n\tGetHandleVerifier [0x00007FF7FD74EF82+2849794]\n\tGetHandleVerifier [0x00007FF7FD7A1D24+3189156]\n\tGetHandleVerifier [0x00007FF7FD79ACAF+3160367]\n\tGetHandleVerifier [0x00007FF7FD536D06+653702]\n\t(No symbol) [0x00007FF7FD42A208]\n\t(No symbol) [0x00007FF7FD4262C4]\n\t(No symbol) [0x00007FF7FD4263F6]\n\t(No symbol) [0x00007FF7FD4167A3]\n\tBaseThreadInitThunk [0x00007FF8E3E07614+20]\n\tRtlUserThreadStart [0x00007FF8E5DE26B1+33]\n",
+      "Series_url_index": 4,
+      "Series_url": "https://de.mitsubishielectric.com/fa/de_en/products/lv_distri/lvc-breakers/mcb/residual-current-circuit-breakers-rccb-bvd",
+      "Time": "2023-09-25 17:26:40.476368"
+    }
+  ]
+}
